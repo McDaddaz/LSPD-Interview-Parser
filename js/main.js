@@ -1,7 +1,7 @@
 /*
 //  MIT License
 //
-//  Copyright (c) 2022 McDadda
+//  Copyright (c) 2022 McDaddaz
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to deal
@@ -27,7 +27,7 @@
 //
 //  Initially used for the Training and Recruitment division of the GTAW Fire Department, 
 //  repurposed for the GTAW State Fire Marshals with modificiations and adjustments to fit 
-//  the needs of the LSPD on GTA Chronicles.
+//  the needs of the LSPD on GTA Chronicles and now on LSRP.
 //
 //  Edit, copy, do whatever. I don't care. Just leave the credits; read the license.
 //
